@@ -1,16 +1,11 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Kristina Horn
+subtitle: Programming, Design & more
+email: kristina-horn@gmx.ch
+description: I'm a computional-linguistics student at UZH try. This site is a small collection of different projects from my studies.
+baseurl: 
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+author: Kristina
 phone: (716) 555-5555
 
 # homepage tiles
@@ -22,14 +17,9 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/k-horn
+  GitLab: https://gitl
+  LinkedIn: https://www.linkedin.com/in/kristina-horn-10729b1b1/
 
 # build settings
 markdown: kramdown

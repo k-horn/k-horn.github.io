@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: ' This site is an overview of a selcetion of different projects. <br> Some are programming based, but other projects with the focus on UX/UI-Design will be added.'
+description: ' This site is an overview of a selcetion of different projects. <br> Some are programming based, but other projects with the focus <br> on UX/UI-Design will be added.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

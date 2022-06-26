@@ -9,15 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Programming projects</h2>
-		</header>
-		<p>These are programming projects from my studies. Most of them are written with python.</p>
-	</div>
-</section>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
